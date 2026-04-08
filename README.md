@@ -6,7 +6,7 @@
 
 Code, data, and analysis for "Moral Compactness: Scripture as a Kolmogorov-Efficient Constraint for LLM Scheming."
 
-**Read the paper:** [icmi-proceedings.com/ICMI-010](https://icmi-proceedings.com/ICMI-010)
+**Read the paper:** [ICMI Proceedings Working Paper No. 10](https://icmi-proceedings.com/ICMI-010-moral-compactness.html)
 
 ## Quick Start
 
