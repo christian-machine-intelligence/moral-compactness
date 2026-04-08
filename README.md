@@ -1,3 +1,5 @@
+![Saint Jerome in His Study, Antonello da Messina (1475)](banner.jpg)
+
 # Moral Compactness
 
 **ICMI Working Paper No. 10**
@@ -38,9 +40,6 @@ src/
 results/
   raw/                 # Raw trial outputs (JSON per trial)
   scored/              # Judge-scored trials
-Paper.md               # Full paper text
-fig1_scheming_rates.png
-fig2_ablation.png
 ```
 
 ## Conditions
