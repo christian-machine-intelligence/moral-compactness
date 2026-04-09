@@ -34,7 +34,7 @@ RESULTS = ROOT / "results" / "raw"
 CONDITIONS = [
     "elaborate_rules", "deontological_religious",
     "elaborate_rules_ablated", "deontological_religious_ablated",
-    "minimal_baseline",
+    "minimal_baseline", "james_417_bare",
 ]
 MODELS = ["claude-opus-4-6", "gpt-5.4"]
 MAX_CONCURRENT = 5  # conservative for expensive frontier models
